@@ -2,8 +2,10 @@
 .env
 .venv
 .idea/
+migrations/
 venv/
 ENV/
 env.bak/
 venv.bak/
 db.sqlite3
+
