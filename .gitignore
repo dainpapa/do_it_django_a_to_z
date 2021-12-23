@@ -3,6 +3,7 @@
 .venv
 .idea/
 migrations/
+_media/
 venv/
 ENV/
 env.bak/
